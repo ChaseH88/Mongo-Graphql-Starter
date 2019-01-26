@@ -1,0 +1,4 @@
+node_modules/
+.esm-cache/
+testProject1/graphQL/
+graphQL/
